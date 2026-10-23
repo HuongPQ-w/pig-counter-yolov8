@@ -88,6 +88,3 @@ Open <http://127.0.0.1:5000>. Requires Python 3.9+.
 - Single shared model with a lock: jobs are processed one inference at a time.
 - Flask's development server is intended for local use only.
 
-## License
-
-MIT
